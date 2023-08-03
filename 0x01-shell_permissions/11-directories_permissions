@@ -1,2 +1,2 @@
 #!/bin/bash
-chmom --recursive+x .
+chmod --recursive+x .
